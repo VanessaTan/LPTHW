@@ -30,7 +30,7 @@ class MansionUpstairs(Scene):
             print "You thought about how insane you were to even come upstairs in the first place."
             print "You run downstairs, right into the monster."
             print "With her bloody lips, she kisses you and drains your life."
-            return 'death'
+            exit (0)
 
         else:
             print "Can you just choose? Enter or Run."

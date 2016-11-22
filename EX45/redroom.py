@@ -12,7 +12,7 @@ class RedRoom(Scene):
         print "You turn around and see a cage with a figure inside."
         print "You hear footsteps outside rushing towards you and then angry bangs on the door."
         print "You feel safe as you locked the door."
-        print "Do you climb out the window or approach the cage?"
+        print "Do you CLIMB out the window or APPROACH the cage?"
 
         action = raw_input("> ")
 
